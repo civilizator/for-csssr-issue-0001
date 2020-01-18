@@ -28,9 +28,9 @@
 Скрипт продемонстрирует поиск ошибки для:
 - Ссылка «Софт для быстрого создания скриншотов» должна вести сюда http://monosnap.com/ (открывается в новом окне)
 
-```
+
 *смотрите: https://github.com/CSSSR/qa-engineer
-```
+
 
 #### Заголовок ошибки: Распределение обязанностей: Ссылка «Софт для быстрого создания скриншотов» не ведет на http://monosnap.com/
   
@@ -46,6 +46,5 @@
 #### Фактический результат
 - Ссылка «Софт для быстрого создания скриншотов» ведет на   http://app.prntscr.com/ru/ и открывется в новой вкладке а не окне
 
-```
-Видео: https://drive.google.com/file/d/1yd5Kf5qJY4Lmoae6U2kDuoC9119KEApp/view?usp=sharing 
-```
+
+ Видео: https://drive.google.com/file/d/1yd5Kf5qJY4Lmoae6U2kDuoC9119KEApp/view?usp=sharing
