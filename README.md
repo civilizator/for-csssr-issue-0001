@@ -47,4 +47,4 @@ www.csssr.com
 - Ссылка «Софт для быстрого создания скриншотов» ведет на   http://app.prntscr.com/ru/ и открывется в новой вкладке а не окне
 
 
- Видео: https://drive.google.com/file/d/1yd5Kf5qJY4Lmoae6U2kDuoC9119KEApp/view?usp=sharing
+ - [Видео:](https://drive.google.com/file/d/1yd5Kf5qJY4Lmoae6U2kDuoC9119KEApp/view?usp=sharing)
