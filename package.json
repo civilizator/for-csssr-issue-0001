@@ -1,0 +1,15 @@
+{
+  "name": "for-csssr-issue-0001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "issue": "node index"
+  },
+  "dependencies": {
+    "chromedriver": "^79.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "webdriver": "^5.18.4"
+  }
+}
