@@ -17,6 +17,7 @@
 `npm install` или  `yarn`
   ```
  *Должен быть установлен NPM package: https://nodejs.org/
+ *Для исполнения yarn должен быть установлен Yarn: https://yarnpkg.com/
  ```
 ## Как запустить тест
 
