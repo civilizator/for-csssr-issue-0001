@@ -29,9 +29,9 @@ www.csssr.com
 - Ссылка «Софт для быстрого создания скриншотов» должна вести сюда http://monosnap.com/ (открывается в новом окне)
 
 
-*смотрите: https://github.com/CSSSR/qa-engineer
+  - *смотрите: https://github.com/CSSSR/qa-engineer
 
-
+##### <span style="color: #B6A5A6;">TITLE:</span>
 #### Заголовок ошибки: Распределение обязанностей: Ссылка «Софт для быстрого создания скриншотов» не ведет на http://monosnap.com/
   
 ####  Шаги
