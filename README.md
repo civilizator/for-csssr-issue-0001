@@ -32,7 +32,7 @@ www.csssr.com
   - *смотрите: https://github.com/CSSSR/qa-engineer
 
 <span style="color: #B6A5A6;">TITLE:</span>
-#### Распределение обязанностей: Ссылка «Софт для быстрого создания скриншотов» не ведет на http://monosnap.com/
+### Распределение обязанностей: Ссылка «Софт для быстрого создания скриншотов» не ведет на http://monosnap.com/
   
 <span style="color: #B6A5A6;">ACTION PERFORMED:</span>
   1. Перейдите по ссылке http://blog.csssr.ru/qa-engineer/
