@@ -41,8 +41,6 @@ const findTagWithText = (tag, text, timeAwait = 3000) => {
 driver
     .get( testUrl )
     .then( async () => {
-
-
         const section = await findTagWithText( 'h1', distributionOfDuties )
 
         await driver.sleep( 500 )
